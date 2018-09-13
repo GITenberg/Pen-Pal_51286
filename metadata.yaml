@@ -1,0 +1,43 @@
+_repo: Pen-Pal_51286
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sibley, Don
+    aliases:
+    - Dibley, Don
+    - Sibley, Donald
+    gutenberg_agent_id: '35673'
+    url: http://www.gutenberg.org/2009/agents/35673
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Ridgway, Jason
+    - Wilder, Stephen
+    - Lesser, Milton
+    - Chase, Adam
+    - Thames, C. H.
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Single women -- Fiction'
+- GITenberg
+title: Pen Pal
+url: http://www.gutenberg.org/ebooks/51286
