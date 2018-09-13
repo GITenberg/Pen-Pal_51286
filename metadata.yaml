@@ -1,5 +1,5 @@
 _repo: Pen-Pal_51286
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Sibley, Don
@@ -8,6 +8,9 @@ contributor:
     - Sibley, Donald
     gutenberg_agent_id: '35673'
     url: http://www.gutenberg.org/2009/agents/35673
+covers:
+- cover_type: archival
+  image_path: 51286-h/images/cover.jpg
 creator:
   author:
     agent_name: Marlowe, Stephen
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32369
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51286#Pen-Pal
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-23'
 gutenberg_type: Text
